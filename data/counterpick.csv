@@ -1,0 +1,7 @@
+# hero,enemy,score
+antimage,crystal_maiden,0.18
+antimage,pudge,0.08
+crystal_maiden,antimage,-0.12
+crystal_maiden,pudge,0.05
+pudge,antimage,0.10
+pudge,crystal_maiden,0.15

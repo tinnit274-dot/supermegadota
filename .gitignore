@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+*.log
+
+# Build
+build/
+*.log
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Other
+.DS_Store
+*.user
+*.suo
+deps/onnxruntime-win-x64-1.17.1/
